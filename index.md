@@ -1,4 +1,4 @@
-## Be eideticNoah
+# Be eideticNoah
 
 I study translation.By eideticNoah
  [Twitter](https://twitter.com/eideticNoah)
@@ -29,8 +29,3 @@ I study translation.By eideticNoah
 
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
