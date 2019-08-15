@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Be eideticNoah
 
-You can use the [editor on GitHub](https://github.com/eideticNoah/eideticNoah.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I study translation.By eideticNoah
+ [Twitter](https://twitter.com/eideticNoah)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### **【NCBI論文:ミュンヒハウゼン症候群(2014')】**
+## [001.要旨](https://...)
+## [002.はじめに](https://...)
+......
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### **【DSM5医師による解離性同一性障についての医療論文翻訳】**
+## [001.要旨](https://...)
+## [002.序論](https://...)
+## [003.臨床](https://...)
+## [004.解離性同一性障害](https://...)
+.......
 
-1. Numbered
-2. List
+
+
+
+
+
+
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eideticNoah/eideticNoah.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
